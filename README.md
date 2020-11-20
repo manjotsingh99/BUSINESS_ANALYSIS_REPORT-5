@@ -1,3 +1,4 @@
+# OPEN THE IPYNB FILE TO CHECK THE DETAILED REPORT
 # BUSINESS_ANALYSIS_REPORT-5
 # TV Shows and Movies listed on Netflix
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
